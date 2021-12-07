@@ -10,7 +10,7 @@
 int main(){
 	int i,j,n;
 	
-	printf("bir sayý giriniz");
+	printf("enter a number");
 	scanf("%d",&n);
 	
 	for(i = n ; i >= 0 ; i--){
