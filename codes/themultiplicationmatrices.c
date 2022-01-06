@@ -20,7 +20,7 @@ int main(){
 	
 	printf("\n");
 	
-	printf("The Multiplication of matrixs:\n");
+	printf("The Multiplication of matrices:\n");
 	
 	for(i=0;i<3;i++){
 		for(j=0;j<3;j++){
