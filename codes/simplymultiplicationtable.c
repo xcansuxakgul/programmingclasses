@@ -9,7 +9,7 @@ int main() {
 	
 	for(i=1;i<=rows;i++){
 		for(j=1;j<=columns;j++){
-			printf("%3d",i*j);
+			printf("%5d",i*j);
 		}
 		printf("\n");
 	}
